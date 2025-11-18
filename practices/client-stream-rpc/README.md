@@ -1,4 +1,4 @@
-# Client server gRPC
+# Stream client gRPC
 
 This project is a very simple implementation of a gRPC streaming client. The client sends a stream which contains a set of numbers to be sumed and then, the server returns the result of the sum.
 
